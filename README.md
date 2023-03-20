@@ -43,4 +43,4 @@
 
 ### 📑 End note 
 
-I enjoyed so much doing this project, specially because I always wanted to integrate the Loading(splash) screen, it is always so nice to learn new things✔
+I enjoyed so much doing this project, specially because I always wanted to integrate the loading(splash) screen, it is always so nice to learn new things✔
