@@ -35,7 +35,7 @@
 
 ## Features
 
-- Review all the different trendieng movies
+- Review all the different trending movies
 - Scroll to see more items
 - Splash screen on initial rendering
 - Splash screen when changing routes
