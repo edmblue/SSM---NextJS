@@ -44,3 +44,5 @@
 ### 📑 End note 
 
 I enjoyed so much doing this project, specially because I always wanted to integrate the loading(splash) screen, it is always so nice to learn new things✔
+
+<sub>**Additional**: When showing the details information sometimes TMDB doesn't provide a logo for the company that's why not all the logos are displayed and the error in the console appears</sub>
